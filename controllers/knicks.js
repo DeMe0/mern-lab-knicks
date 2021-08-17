@@ -13,14 +13,24 @@ const playerSeed = [
     img: "https://res.cloudinary.com/ademeo/image/upload/v1629220677/knicks_db/4681af480687bf9b6d6f890f34aa8e7c_xoiazl.jpg",
   },
   {
-    name: "Patrick Ewing",
-    position: "C",
-    img: "https://res.cloudinary.com/ademeo/image/upload/v1629220761/knicks_db/72466949-850x560_sa9c56.webp",
+    name: "Bernard King",
+    position: "SG",
+    img: "https://res.cloudinary.com/ademeo/image/upload/v1629233772/knicks_db/Ej7EcJdWsAE_XfL_jlpdz5.jpg",
   },
   {
     name: "Carmelo Anthony",
     position: "SF",
     img: "https://res.cloudinary.com/ademeo/image/upload/v1629220849/knicks_db/melo-3_gasdab.jpg",
+  },
+  {
+    name: "Larry Johnson",
+    position: "PF",
+    img: "https://res.cloudinary.com/ademeo/image/upload/v1629233772/knicks_db/Ej7EcJdWsAE_XfL_jlpdz5.jpg",
+  },
+  {
+    name: "Patrick Ewing",
+    position: "C",
+    img: "https://res.cloudinary.com/ademeo/image/upload/v1629220761/knicks_db/72466949-850x560_sa9c56.webp",
   },
 ];
 
